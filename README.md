@@ -6,7 +6,7 @@ Objective
 * To use cloud assistance for data processing
 * To implement privacy-preserving machine learning models
 * To build a secure intelligence
-Features
+   Features
 🔐 Secure data storage and transmission
 ☁️ Cloud-assisted processing
 🤖 Machine learning model integration
